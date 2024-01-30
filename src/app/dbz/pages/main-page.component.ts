@@ -1,12 +1,8 @@
-import { Component, OnInit } from '@angular/core';
+import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-dbz-main-page',
-  templateUrl: './main-page.component.html'
+  templateUrl: './main-page.component.html',
 })
 
-export class MainPageComponent {
-
-
-
-}
+export class MainPageComponent {}
