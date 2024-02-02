@@ -27,7 +27,7 @@ export class DbzService {
     }
 ];
 
-  onNewCharacter( character: Character): void {
+  addCharacter( character: Character): void {
 
     //* Con esto especificamos que newCharacter será un objeto con id y los
     //* demás campos que traiga character
